@@ -1,0 +1,4325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 9:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р. Малашка (пешеходный мост к кварталу Горбово)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "a-z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9654463,
+          55.83860566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 10:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р. Пехорка (Городской парк)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "0-9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9474299,
+          55.80060633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 11:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р. Пехорка (плотина)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "aerialway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.95158409,
+          55.79795821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 12:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р. Пехорка (ул. Евстафьева)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "airfield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.94358653,
+          55.78710113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 13:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р. Пехорка.26-29 января",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "airport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.94664536,
+          55.802099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 14:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р.Пехорка (Алексеевский пруд)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "alcohol-shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.908716,
+          55.837409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 15:57",
+        "date": "3/27/24 ",
+        "description": "г. Балашиха, р. Черная (ж/д пл. Черная)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "america-football"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.054284,
+          55.753803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 16:57",
+        "date": "3/27/24 ",
+        "description": "г. Видное, р-он Эко-Видное, р. Купелинка (верхняя часть Нижнего пруда)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.72970224,
+          55.53177755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 17:57",
+        "date": "3/27/24 ",
+        "description": "Усадьба Суханово",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.656248,
+          55.523047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 18:57",
+        "date": "3/27/24 ",
+        "description": "г. Дмитров, руч. Березовец, от Профессиональной ул. вдоль Оборонной ул",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.52628857,
+          56.35391093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 19:57",
+        "date": "3/27/24 ",
+        "description": "г. Долгопрудный, Городкой ПКиО (Верхний пруд)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.501864,
+          55.943741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 20:57",
+        "date": "3/27/24 ",
+        "description": "г. Долгопрудный, р. Коть",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "baseball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.508182,
+          55.953066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 21:57",
+        "date": "3/27/24 ",
+        "description": "г. Дубна, р. Волга близ Иваньковской ГЭС",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "basketball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13070994,
+          56.73648944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 22:57",
+        "date": "3/27/24 ",
+        "description": "г. Егорьевск, р. Гуслица (от ул. П. Коммуны до ул. Рязанская)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "beer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.03273209,
+          55.38129882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/27/24 23:57",
+        "date": "3/27/24 ",
+        "description": "г. Зеленоград, р. Каменка",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15784938,
+          55.97088829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 0:57",
+        "date": "3/28/24 ",
+        "description": "г. Зеленоград, р. Сходня (ниже Панфиловского пр-та., Заказник Зеленоградский)",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "building"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.202058,
+          55.987895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 1:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (меандр реки)",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9016512,
+          55.98977287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 2:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (мост в ЦПКиО)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91750842,
+          55.97942304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 3:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (мост по ул. Новая Слобода)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "camera"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91811189,
+          55.96995288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 4:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (мост по ул. Огорхоз)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91512662,
+          55.98594892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 5:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (мостик у ж/д)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.92878708,
+          55.96306915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 6:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (под ЛЭП)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "cemetery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91624242,
+          55.98071617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 7:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (СНТ Колос)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "chemist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.90002042,
+          55.99239449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 8:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (СНТ Машиностроитель)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "cinema"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.91092092,
+          55.98472184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 9:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча (труба через реку)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "circle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.92821845,
+          55.96456156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 10:57",
+        "date": "3/28/24 ",
+        "description": "г. Ивантеевка, р. Уча/р. Скалба",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.92374724,
+          55.97517299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 11:57",
+        "date": "3/28/24 ",
+        "description": "г. Истра, р. Истра (пешеходный мост)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.85133365,
+          55.91234588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 12:57",
+        "date": "3/28/24 ",
+        "description": "г. Кашира, Каширская ГРЭС",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "clothing-store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.25561683,
+          54.86225759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 13:57",
+        "date": "3/28/24 ",
+        "description": "г. Клин (пруд на ул.Чайковского/ул.Клинская) Регулярная подкормочная площадка с замерзшим водоемом. Утки прилетают с р. Сестра",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.764211,
+          56.317355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 14:57",
+        "date": "3/28/24 ",
+        "description": "г. Клин, плотина на р. Сестра в районе Ленинградского шоссе",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "commercial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.736082,
+          56.328815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 15:57",
+        "date": "3/28/24 ",
+        "description": "г. Клин, плотина на р. Сестра в районе ул. Чайковского",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "cricket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73785307,
+          56.33480532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 16:57",
+        "date": "3/28/24 ",
+        "description": "г. Королёв, Дулёв ручей, около моста. Многолетняя зимовка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "cross"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.82148489,
+          55.93452625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 17:57",
+        "date": "3/28/24 ",
+        "description": "г. Королёв, р. Клязьма (от моста на ул. Кирова до пос. Валентиновка)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.867362,
+          55.933871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 18:57",
+        "date": "3/28/24 ",
+        "description": "г. Красногорск, Ивановские пруды",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "danger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.31506651,
+          55.81896514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 19:57",
+        "date": "3/28/24 ",
+        "description": "г. Красногорск, р. Банька (Волоколамское ш.)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "dentist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35762184,
+          55.815881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 20:57",
+        "date": "3/28/24 ",
+        "description": "г. Красногорск, р. Банька",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "disability"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3690168,
+          55.81360788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 21:57",
+        "date": "3/28/24 ",
+        "description": "г. Красногорск, р. Банька",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "dog-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.35762184,
+          55.815881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 22:57",
+        "date": "3/28/24 ",
+        "description": "г. Можайск, р. Москва (Ильинская слобода)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "embassy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.02067825,
+          55.5220712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/28/24 23:57",
+        "date": "3/28/24 ",
+        "description": "г. Можайск, р. Москва (Лужнецкий монастырь)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "emergency-telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.00939675,
+          55.52350698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 0:57",
+        "date": "3/29/24 ",
+        "description": "г. Можайск, р. Москва (петля реки у Тихоново)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.98847779,
+          55.54176501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 1:57",
+        "date": "3/29/24 ",
+        "description": "г. Москва, Суздальский пруд",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "farm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.848377,
+          55.734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 2:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, впадение р. Борисовка в р. Сукромка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6990722,
+          55.90907593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 3:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Работня",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "ferry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77096732,
+          55.91311112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 4:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Сукромка (пруд у ТЭЦ-27)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "fire-station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.69433005,
+          55.91092036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 5:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.70281666,
+          55.89972151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 6:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (МГОУ)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "garden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.71822327,
+          55.89786491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 7:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (мост под Ярославским шоссе)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "gift"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.76905748,
+          55.9084953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 8:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (мост у ДК Яуза)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.74337206,
+          55.90686897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 9:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (мост у ЖД)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "grocery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.75504523,
+          55.90990602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 10:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (мост у инст. Эрисмана)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.73152742,
+          55.90215638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 11:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (мост у пл. Тайнинская)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "harbor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.73910198,
+          55.90544693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 12:57",
+        "date": "3/29/24 ",
+        "description": "г. Мытищи, р. Яуза (мост у стомат. поликлиники)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "heart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.72393121,
+          55.89677956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 13:57",
+        "date": "3/29/24 ",
+        "description": "г. Наро-Фоминск, р. Нара (у Никольского собора)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "heliport"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.73778464,
+          55.38718925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 14:57",
+        "date": "3/29/24 ",
+        "description": "г. Ногинск, р. Клязьма",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.439501,
+          55.858248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 15:57",
+        "date": "3/29/24 ",
+        "description": "г. Ногинск, р. Лавровка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "ice-cream"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.435649,
+          55.879374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 16:57",
+        "date": "3/29/24 ",
+        "description": "г. Ногинск, р. Черноголовка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "industrial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.459607,
+          55.877297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 17:57",
+        "date": "3/29/24 ",
+        "description": "г. Одинцово (пруд у ТЦ Союзный)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "land-use"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.281053,
+          55.670637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 18:57",
+        "date": "3/29/24 ",
+        "description": "г. Одинцово (пруд у школы №5)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "laundry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.28461647,
+          55.6743849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 19:57",
+        "date": "3/29/24 ",
+        "description": "г. Озёры, р. Ока (Понтонный мост)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "library"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.584447,
+          54.834631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 20:57",
+        "date": "3/29/24 ",
+        "description": "г. Озёры, р. Ока (Понтонный мост).19 янв.:Гоголь 8. 22 янв",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.584447,
+          54.834631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 21:57",
+        "date": "3/29/24 ",
+        "description": "г. Озёры, улица Калинина, 24.Небольшой пруд при охот.союзе",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "lodging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5639931,
+          54.86092775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 22:57",
+        "date": "3/29/24 ",
+        "description": "г. Орехово-Зуево, р. Клязьма (мост по Юбилейный пр-д)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "logging"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.97121718,
+          55.80452704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/29/24 23:57",
+        "date": "3/29/24 ",
+        "description": "г. Орехово-Зуево, р. Клязьма (Новый мост)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "london-underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.9801663,
+          55.80816292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 0:57",
+        "date": "3/30/24 ",
+        "description": "г. Орехово-Зуево, р. Клязьма (ул. Северная)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "marker-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.991308,
+          55.811749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 1:57",
+        "date": "3/30/24 ",
+        "description": "г. Павловский Посад, р.Вохонка (мост у Вознесенской церкви на ул. Л.Толстого)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65055668,
+          55.78328689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 2:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, р. Серебрянка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "minefield"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86156868,
+          56.00870998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 3:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, р. Серебрянка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "mobilephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85275129,
+          56.01668487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 4:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, р. Серебрянка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "monument"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85703564,
+          56.00878023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 5:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, р. Серебрянка (безводная подкормочная площадка)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86425294,
+          56.00700776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 6:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, р. Уча",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.816696,
+          56.003256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 7:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, р.Уча (мост на Кудринском шоссе)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "oil-well"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.84974755,
+          55.99252555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 8:57",
+        "date": "3/30/24 ",
+        "description": "г. Пушкино, Санаторий Пушкино",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "park2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.905133,
+          56.013121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 9:57",
+        "date": "3/30/24 ",
+        "description": "г. Красноармейск, р. Воря (мост за администрацией)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.129355,
+          56.104731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 10:57",
+        "date": "3/30/24 ",
+        "description": "г. Руза",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "parking-garage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.193096,
+          55.69637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 11:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад (отстойники очистных сооружений)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.168544,
+          56.285509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 12:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, Вифанский пруд (у впадении р. Кончура)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.169716,
+          56.289312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 13:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, Келарский пруд, р. Копнинка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "pitch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.12510448,
+          56.30396671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 14:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, р. Кончура (Пятницкая часовня)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "place-of-worship"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.133724,
+          56.308403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 15:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, р. Торгоша",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.192334,
+          56.300244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 16:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, Скитские пруды",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.177433,
+          56.306685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 17:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, Скитские пруды",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "polling-place"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.178656,
+          56.306331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 18:57",
+        "date": "3/30/24 ",
+        "description": "г. Сергиев Посад, Скитские пруды",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.169994,
+          56.30309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 19:57",
+        "date": "3/30/24 ",
+        "description": "г. Серпухов, пруд у Высоцкого Зачатьевского монастыря",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "prison"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.41640116,
+          54.90150676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 20:57",
+        "date": "3/30/24 ",
+        "description": "Серпуховской р-он, дер. Мартьяново, р. Речма",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "rail-above"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.55132,
+          54.960335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 21:57",
+        "date": "3/30/24 ",
+        "description": "г. Фрязино, р. Любосеевка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "rail-light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.04267778,
+          55.96494918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 22:57",
+        "date": "3/30/24 ",
+        "description": "г. Хотьково, р. Пажа (ЦПКиО)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "rail-metro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.98914817,
+          56.25181136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/30/24 23:57",
+        "date": "3/30/24 ",
+        "description": "г. Химки, р. Грачёвка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "rail-underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.434916,
+          55.881105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 0:57",
+        "date": "3/31/24 ",
+        "description": "г. Химки, р. Химка (мост Химки-Старбеево)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.465309,
+          55.903342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 1:57",
+        "date": "3/31/24 ",
+        "description": "г. Химки, р. Химка (Яхтклуб)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "religious-christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.46612371,
+          55.89926278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 2:57",
+        "date": "3/31/24 ",
+        "description": "г. Химки, р. Химка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "religious-jewish"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.462605,
+          55.904088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 3:57",
+        "date": "3/31/24 ",
+        "description": "г. Химки (Сходня), р. Сходня",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "religious-muslim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.310178,
+          55.963576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 4:57",
+        "date": "3/31/24 ",
+        "description": "г. Черноголовка, мост на р. Черноголовка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.38014887,
+          55.99825707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 5:57",
+        "date": "3/31/24 ",
+        "description": "г. Черноголовка, мост по ул. Архитектора Толмачёва",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "roadblock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.37706967,
+          56.00147668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 6:57",
+        "date": "3/31/24 ",
+        "description": "г. Черноголовка, полынья на р. Черноголовка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "rocket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3781962,
+          56.00052071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 7:57",
+        "date": "3/31/24 ",
+        "description": "г. Чехов, городской пруд (р. Теребенка)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "school"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.45714371,
+          55.14274911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 8:57",
+        "date": "3/31/24 ",
+        "description": "г. Шатура, озеро Муромское",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "scooter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.58157105,
+          55.59033122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 9:57",
+        "date": "3/31/24 ",
+        "description": "г. Шатура, озеро Чёрное",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71398,
+          55.627895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 10:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "skiing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.07086496,
+          55.91681654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 11:57",
+        "date": "3/31/24 ",
+        "description": "г. Щелково, на очистных",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "slaughterhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.01810242,
+          55.91458376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 12:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, Набережная улица",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.06817356,
+          55.9149823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 13:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, Новый мост",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "square-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.998898,
+          55.922757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 14:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, р. Клязьма (Заречная ул.)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "square"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.01796315,
+          55.91924421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 15:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, р.Клязьма (микрорайон Потаповский)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "star-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.055028,
+          55.914115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 16:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, руч. Поныри. Безводная подкормочная площадка у мостов",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.99068462,
+          55.91698744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 17:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, ул. Новобережная",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.06899804,
+          55.91598521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 18:57",
+        "date": "3/31/24 ",
+        "description": "г. Щёлково, ул. Садовая",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "swimming"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.07354717,
+          55.91261078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 19:57",
+        "date": "3/31/24 ",
+        "description": "ГО Красногорск, село Петрово-Дальнее, р. Москва",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "telephone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.14991,
+          55.74286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 20:57",
+        "date": "3/31/24 ",
+        "description": "г. Солнечногорск, р. Сестра в районе Бездонного озера",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "tennis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.982799,
+          56.241514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 21:57",
+        "date": "3/31/24 ",
+        "description": "д. Васькино, р. Люторка, парк усадьбы Васькино",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.59183046,
+          55.13462837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 22:57",
+        "date": "3/31/24 ",
+        "description": "д. Горбово, р. Руза (Горбовская ГЭС)",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.25758052,
+          55.65775307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "3/31/24 23:57",
+        "date": "3/31/24 ",
+        "description": "д. Леньково, р. Руза",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "town-hall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.14302,
+          55.7514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 0:57",
+        "date": "4/1/24 ",
+        "description": "д. Пирогово, р. Клязьма (мост по ул. Центральная)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.72502895,
+          55.97733998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 1:57",
+        "date": "4/1/24 ",
+        "description": "Дмитровский ГО, р.Дятлинка",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "triangle-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.362932,
+          56.359371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 2:57",
+        "date": "4/1/24 ",
+        "description": "Дмитровский ГО, село Орудьево, незамерзающая полынья на водохранилище",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.53990468,
+          56.46543606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 3:57",
+        "date": "4/1/24 ",
+        "description": "жд. платформа Калинина, р. Битца",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.70267934,
+          55.51601975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 4:57",
+        "date": "4/1/24 ",
+        "description": "Загорская ГАЭС, с. Выпуково. Полынья рядом со сбросом воды",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "warehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.19212495,
+          56.48176251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 5:57",
+        "date": "4/1/24 ",
+        "description": "Истринская ГЭС, р. Истра (плотина)",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "waste-basket"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.82155934,
+          55.99231896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 6:57",
+        "date": "4/1/24 ",
+        "description": "Красногорск, р. Сходня. Пешеходный мост между д.Путилково и пос.Новобратцевский",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3851258,
+          55.85451191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 7:57",
+        "date": "4/1/24 ",
+        "description": "Лосиный остров, Чугунный мост",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.77204654,
+          55.89481224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 8:57",
+        "date": "4/1/24 ",
+        "description": "Можайский ГО, Можайская ГЭС",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "zoo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.955302,
+          55.533881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 9:57",
+        "date": "4/1/24 ",
+        "description": "Москва, Троицк, Зона отдыха Заречье",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.305051,
+          55.494983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 10:57",
+        "date": "4/1/24 ",
+        "description": "Москва, Троицк, Проектируемый проезд № 7646",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.309632,
+          55.494046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 11:57",
+        "date": "4/1/24 ",
+        "description": "Московская область, Нехлюдов рукав",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.824823,
+          55.884509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 12:57",
+        "date": "4/1/24 ",
+        "description": "ПГТ. Свердловский, р. Клязьма (пешеходная дорожка вдоль ул.Заречная 1)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.14678042,
+          55.89881354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 13:57",
+        "date": "4/1/24 ",
+        "description": "Пироговское водохранилище (дамба)",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.71934307,
+          55.98052732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 14:57",
+        "date": "4/1/24 ",
+        "description": "пос. Макарово, р. Пахра (Серебряная подкова)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.67178772,
+          55.45687672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 15:57",
+        "date": "4/1/24 ",
+        "description": "пос. Макарово, р. Пахра",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "g"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6778817,
+          55.4632905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 16:57",
+        "date": "4/1/24 ",
+        "description": "пос. Нахабино, р. Нахабинка",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16544729,
+          55.85155426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 17:57",
+        "date": "4/1/24 ",
+        "description": "пос. Остафьево, р. Десна (на плотине)",
+        "area": "Москва",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "i"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.50065353,
+          55.48906883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 18:57",
+        "date": "4/1/24 ",
+        "description": "пос. Остафьево, р. Любуча (Музей-усадьба Остафьево)",
+        "area": "Москва",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "j"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.50250217,
+          55.49523289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 19:57",
+        "date": "4/1/24 ",
+        "description": "пос. Пироговский, р. Клязьма (мост по ул. Фабричная)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "k"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7433414,
+          55.97695609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 20:57",
+        "date": "4/1/24 ",
+        "description": "Пос. Стрелковой фабрики, р. Пахра",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "l"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63667093,
+          55.46425259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 21:57",
+        "date": "4/1/24 ",
+        "description": "р. Десна, дер. Тупиково, Новомосковский АО.Природный парк",
+        "area": "Москва",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "m"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.349373,
+          55.52636093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 22:57",
+        "date": "4/1/24 ",
+        "description": "р. Москва от Игумново до Шишиморово",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06472637,
+          55.55334022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/1/24 23:57",
+        "date": "4/1/24 ",
+        "description": "р. Озерна, Озернинская ГЭС",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "o"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.15704,
+          55.74582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 0:57",
+        "date": "4/2/24 ",
+        "description": "р. Пахра, от Чёрного ручья до дер. Ивлево",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "p"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.63238666,
+          55.45156393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 1:57",
+        "date": "4/2/24 ",
+        "description": "р. Пехорка от пл. Томилино до Быковское шоссе",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "q"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.96228746,
+          55.6406401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 2:57",
+        "date": "4/2/24 ",
+        "description": "Ракитино (место впадения р.Озерна в р.Руза)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "r"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.140071,
+          55.741131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 3:57",
+        "date": "4/2/24 ",
+        "description": "Рузская ГЭС",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.11015,
+          55.76104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 4:57",
+        "date": "4/2/24 ",
+        "description": "Рузский ГО, д. Марково, р. Москва",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "t"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.420343,
+          55.610149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 5:57",
+        "date": "4/2/24 ",
+        "description": "Рузский р-он, Шорново, р.Руза",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "u"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.126664,
+          55.757135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 6:57",
+        "date": "4/2/24 ",
+        "description": "Солнышевские карьеры, ГО Чехов, деревня Солнышково. Не замерзающие, т.к. бьет поток воды из трубы",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "v"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.47804771,
+          55.12631829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 7:57",
+        "date": "4/2/24 ",
+        "description": "Раменский р-он, пос. Кратово, р. Хрипань",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "w"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.16434,
+          55.584997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 8:57",
+        "date": "4/2/24 ",
+        "description": "Щёлковский р-он, руч.Шолоховка, Утиное селфи-2023",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "x"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9964953,
+          55.90732091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 9:57",
+        "date": "4/2/24 ",
+        "description": "Щёлковский р-он, р. Клязьма (Знаменская церковь по ул. Правобережная)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.04434953,
+          55.91680718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 10:57",
+        "date": "4/2/24 ",
+        "description": "Щёлковский р-он, р. Клязьма (мост по ул. Рабочая)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": "z"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.05867253,
+          55.91211935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 11:57",
+        "date": "4/2/24 ",
+        "description": "Щёлковский р-он, р. Клязьма (часовня по ул. Правобережная)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.04748438,
+          55.91650026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 12:57",
+        "date": "4/2/24 ",
+        "description": "Мост МКАД у с. Беседы — Андреевское; 15 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.79274,
+          55.623441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 13:57",
+        "date": "4/2/24 ",
+        "description": "Андреевское — Заозёрье; 8 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.93289,
+          55.556526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 14:57",
+        "date": "4/2/24 ",
+        "description": "мост у с. Заозёрье — траверс границы сёл Кулаково и Михайловская Слобода; 9 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.035635,
+          55.58106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 15:57",
+        "date": "4/2/24 ",
+        "description": "траверс границы сёл Кулаково и Михайловская Слобода — Вертячево; 8 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.086554,
+          55.564164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 16:57",
+        "date": "4/2/24 ",
+        "description": "Вертячево — Софьино; 8 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.147897,
+          55.543257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 17:57",
+        "date": "4/2/24 ",
+        "description": "Софьино — автодорожный мост у Бронниц; 13 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.191971,
+          55.505051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 18:57",
+        "date": "4/2/24 ",
+        "description": "автодорожный мост у Бронниц — Фаустово; 17 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.293164,
+          55.422759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 19:57",
+        "date": "4/2/24 ",
+        "description": "Фаустово — первый (северный) автодорожный мост Воскресенска; 18 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.475584,
+          55.430257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 20:57",
+        "date": "4/2/24 ",
+        "description": "первый (северный) автодорожный мост Воскресенска — ж/д мост в Воскресенске; 6 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.639508,
+          55.325212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 21:57",
+        "date": "4/2/24 ",
+        "description": "ж/д мост в Воскресенске — Пески (понтонный мост у Черкизово); 12 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.695649,
+          55.291421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 22:57",
+        "date": "4/2/24 ",
+        "description": "Пески — ж/д мост у Коломны; 15 км",
+        "area": "Московская область",
+        "title": "Река Москва в нижнем течении",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.745026,
+          55.206908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/2/24 23:57",
+        "date": "4/2/24 ",
+        "description": "ж/д мост у Коломны — устье р. Москвы — Коробчеево (на Оке); 6+5 км",
+        "area": "Московская область",
+        "title": "Река Ока (от устья реки Москва до Белоомутского гидроузла)",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.783098,
+          55.107753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 0:57",
+        "date": "4/3/24 ",
+        "description": "р. Ока от Коробчеева до Белоомутского гидроузла; 47 км",
+        "area": "Московская область",
+        "title": "Река Ока (от устья реки Москва до Белоомутского гидроузла)",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.901693,
+          55.081717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 1:57",
+        "date": "4/3/24 ",
+        "description": "р. Ока от Коробчеева до Белоомутского гидроузла; 47 км (конец маршрута)",
+        "area": "Московская область",
+        "title": "Река Ока (от устья реки Москва до Белоомутского гидроузла)",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.252112,
+          54.948391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 2:57",
+        "date": "4/3/24 ",
+        "description": "р. Ока от Коробчеева до Белоомутского гидроузла; 47 км",
+        "area": "Московская область",
+        "title": "Река Ока (от устья реки Москва до Белоомутского гидроузла)",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.252112,
+          54.948391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 3:57",
+        "date": "4/3/24 ",
+        "description": "Бисеровский рыбхоз",
+        "area": "Московская область",
+        "title": "Рыбхозы (Бисеровский)",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.148559,
+          55.785498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 4:57",
+        "date": "4/3/24 ",
+        "description": "Сброс охладителя Электрогорской ГЭС",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.781244,
+          55.89518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 5:57",
+        "date": "4/3/24 ",
+        "description": "мост у с. Заозёрье — траверс границы сёл Кулаково и Михайловская Слобода; 9 км",
+        "area": "Московская область",
+        "title": "Нижнее течение реки Москвы (учет Зубакина)",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.035635,
+          55.58106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 6:57",
+        "date": "4/3/24 ",
+        "description": "р. Сетунь в Солнцеве и Переделкине",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.359699,
+          55.655324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 7:57",
+        "date": "4/3/24 ",
+        "description": "р. Сетунь (Новопеределкинская ул.)",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.373988,
+          55.63913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 8:57",
+        "date": "4/3/24 ",
+        "description": "Солнцевский пруд (кинотеатр Солнцево)",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.389577,
+          55.651557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 9:57",
+        "date": "4/3/24 ",
+        "description": "Обводная канава Учинского водохранилища",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.778732,
+          56.006308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 10:57",
+        "date": "4/3/24 ",
+        "description": "г. Химки, р. Химка (мост Химки-Старбеево)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.46612371,
+          55.89926278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 11:57",
+        "date": "4/3/24 ",
+        "description": "р. Сходня в г. Зеленограде (ТЭЦ)",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.246704,
+          55.976201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 12:57",
+        "date": "4/3/24 ",
+        "description": "р. Сходня в г. Зеленограде (санаторий им. Артёма)",
+        "area": "Москва",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.270953,
+          55.969651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 13:57",
+        "date": "4/3/24 ",
+        "description": "пос. Свердловский, р. Клязьма ",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.139065,
+          55.9077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 14:57",
+        "date": "4/3/24 ",
+        "description": "г. Клин, р. Сестра в районе очистных",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.690068,
+          56.389354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 15:57",
+        "date": "4/3/24 ",
+        "description": "р. Битца от усадьбы Садки-Знаменское до пл.Расторгуево ",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.615925,
+          55.569985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 16:57",
+        "date": "4/3/24 ",
+        "description": "Тепловодный канал в Лосином Острове",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86005,
+          55.89939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 17:57",
+        "date": "4/3/24 ",
+        "description": "Нижний бьеф Икшинского водохранилища",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.505838,
+          56.164015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 18:57",
+        "date": "4/3/24 ",
+        "description": "г. Шатура, озеро Чёрное",
+        "area": "Московская область",
+        "title": "",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.71398,
+          55.627895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 19:57",
+        "date": "4/3/24 ",
+        "description": "г. Шатура, канава близ очистных",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.538466,
+          55.550254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 20:57",
+        "date": "4/3/24 ",
+        "description": "Нижний бьеф Верхне-Рузского водохранилища",
+        "area": "Московская область",
+        "title": "Водохранилища",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.47504,
+          55.944868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 21:57",
+        "date": "4/3/24 ",
+        "description": "г. Троицк, р. Пахра ниже сброса очистных",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.276381,
+          55.437009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 22:57",
+        "date": "4/3/24 ",
+        "description": "г. Королёв, Дулёв ручей, около моста. Многолетняя зимовка",
+        "area": "Московская область",
+        "title": "Город",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.82148489,
+          55.93452625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/3/24 23:57",
+        "date": "4/3/24 ",
+        "description": "пос. Барвиха, р. Саминка (Соминка) ниже плотины",
+        "area": "Московская область",
+        "title": "Город",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.27024,
+          55.725054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 0:57",
+        "date": "4/4/24 ",
+        "description": "Сброс охладителя Электрогорской ГЭС",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.78347,
+          55.890382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 1:57",
+        "date": "4/4/24 ",
+        "description": "Звездный городок (платформа Циолковская)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.113854,
+          55.879408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 2:57",
+        "date": "4/4/24 ",
+        "description": "Городецкий порог",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.114366,
+          55.050841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 3:57",
+        "date": "4/4/24 ",
+        "description": "г. Электросталь, ЭКО Парк Авангард, водоем Западный",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.419254,
+          55.790259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 4:57",
+        "date": "4/4/24 ",
+        "description": "г. Нахабино, пруд в парке им. Карбышева",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.162163,
+          55.83978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 5:57",
+        "date": "4/4/24 ",
+        "description": "г. Апрелевка, дер.Кромино",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.068528,
+          55.527078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 6:57",
+        "date": "4/4/24 ",
+        "description": "г. Апрелевка, дер.Малые Горки",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.080492,
+          55.529178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 7:57",
+        "date": "4/4/24 ",
+        "description": "г. Щёлково, Старый мост",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.993569,
+          55.923709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 8:57",
+        "date": "4/4/24 ",
+        "description": "г. Щёлково, пешеходный мост 1",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.988722,
+          55.924325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 9:57",
+        "date": "4/4/24 ",
+        "description": "г. Щёлково, пешеходный мост 2",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.980746,
+          55.924937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 10:57",
+        "date": "4/4/24 ",
+        "description": "г. Люберцы, оз. Чёрное",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.950893,
+          55.696165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 11:57",
+        "date": "4/4/24 ",
+        "description": "г. Балашиха, р. Пехорка (плотина)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.963966,
+          55.756188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 12:57",
+        "date": "4/4/24 ",
+        "description": "г. Реутов (Суздальский пруд)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.848377,
+          55.734258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 13:57",
+        "date": "4/4/24 ",
+        "description": "г. Пушкино, р. Серебрянка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85275129,
+          56.01668487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 14:57",
+        "date": "4/4/24 ",
+        "description": "г. Пушкино, р. Серебрянка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.85703564,
+          56.00878023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 15:57",
+        "date": "4/4/24 ",
+        "description": "г. Пушкино, р. Серебрянка",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86156868,
+          56.00870998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 16:57",
+        "date": "4/4/24 ",
+        "description": "г. Пушкино, р. Серебрянка (безводная подкормочная площадка)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.86425294,
+          56.00700776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 17:57",
+        "date": "4/4/24 ",
+        "description": "г. Орехово-Зуево, р. Клязьма (Парковский мост)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.000505,
+          55.816767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 18:57",
+        "date": "4/4/24 ",
+        "description": "г. Сергиев Посад, Скитские пруды",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.170034,
+          56.303074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 19:57",
+        "date": "4/4/24 ",
+        "description": "г. Сергиев Посад, Скитские пруды",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.177823,
+          56.306601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 20:57",
+        "date": "4/4/24 ",
+        "description": "г. Сергиев Посад, р. Кончура (Пятницкая часовня)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.139674,
+          56.307584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 21:57",
+        "date": "4/4/24 ",
+        "description": "г. Сергиев Посад, р. Копнинка (Петр и Февронья)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.13071,
+          38.13071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 22:57",
+        "date": "4/4/24 ",
+        "description": "с. Жаворонки, Одинцовский р-он",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.088298,
+          55.641886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/4/24 23:57",
+        "date": "4/4/24 ",
+        "description": "Куркино, Парк Долина р. Сходни",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.380569,
+          55.879283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 0:57",
+        "date": "4/5/24 ",
+        "description": "г. Котельники, Большой опытный пруд",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.858352,
+          55.669449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 1:57",
+        "date": "4/5/24 ",
+        "description": "г. Дедовск (два небольших пруда ул. Дедово/ул. Западная)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.10892,
+          55.865977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 2:57",
+        "date": "4/5/24 ",
+        "description": "г. Балашиха, р. Пехорка, ЗО Заречная (ул. Заречная 18-А)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.958366,
+          55.813667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 3:57",
+        "date": "4/5/24 ",
+        "description": "г. Балашиха, р. Пехорка, ЗО Заречная (ул. Заречная 3-А)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.964131,
+          55.825933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 4:57",
+        "date": "4/5/24 ",
+        "description": "д. Новленское, р. Пахра (дамба)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.790678,
+          55.482292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 5:57",
+        "date": "4/5/24 ",
+        "description": "д. Камкино, р. Пахра",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.815475,
+          55.482857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 6:57",
+        "date": "4/5/24 ",
+        "description": "г. Подольск, р. Пахра (дер. Жданово)",
+        "area": "Московская область",
+        "title": "Сельские поселения",
+        "marker-size": "small",
+        "marker-color": "red",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.596251,
+          55.449771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 7:57",
+        "date": "4/5/24 ",
+        "description": "г. Волоколамск (р. Городня/Волоколамское водохранилище)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "medium",
+        "marker-color": "green",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.969177,
+          56.033879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "timestamp": "4/5/24 8:57",
+        "date": "4/5/24 ",
+        "description": "г. Дзержинский (Николо-Угрешский монастырь)",
+        "area": "Московская область",
+        "title": "Областные города",
+        "marker-size": "large",
+        "marker-color": "blue",
+        "marker-symbol": "bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.839112,
+          55.623414
+        ]
+      }
+    }
+  ]
+}

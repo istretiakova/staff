@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Балашиха, р. Малашка (пешеходный мост к кварталу Горбово)",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9654463,
+          55.83860566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Видное, р-он Эко-Видное, р. Купелинка (верхняя часть Нижнего пруда)",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.72970224,
+          55.53177755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Усадьба Суханово",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.656248,
+          55.523047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Дмитров, руч. Березовец, от Профессиональной ул. вдоль Оборонной ул",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.52628857,
+          56.35391093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Долгопрудный, Городкой ПКиО (Верхний пруд)",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.501864,
+          55.943741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Долгопрудный, р. Коть",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.508182,
+          55.953066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Дубна, р. Волга близ Иваньковской ГЭС",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.13070994,
+          56.73648944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Егорьевск, р. Гуслица (от ул. П. Коммуны до ул. Рязанская)",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.03273209,
+          55.38129882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Зеленоград, р. Каменка",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.15784938,
+          55.97088829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "г. Ивантеевка, р. Уча (меандр реки)",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9016512,
+          55.98977287
+        ]
+      }
+    },
+  ]
+}
