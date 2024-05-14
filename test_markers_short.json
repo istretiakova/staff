@@ -4,7 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Балашиха, р. Малашка (пешеходный мост к кварталу Горбово)",
+        "description": "<strong>Точка #1</strong><p>г. Балашиха, р. Малашка (пешеходный мост к кварталу Горбово)</p>",
+        "marker-color": "red",
+        "marker-size": 4,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -17,7 +20,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Видное, р-он Эко-Видное, р. Купелинка (верхняя часть Нижнего пруда)",
+        "description": "<strong>Точка #1</strong><p>г. Видное, р-он Эко-Видное, р. Купелинка (верхняя часть Нижнего пруда)</p>",
+        "marker-color": "green",
+        "marker-size": 3,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -30,7 +36,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "Усадьба Суханово",
+        "description": "<strong>Точка #1</strong><p>Усадьба Суханово</p>",
+        "marker-color": "blue",
+        "marker-size": 5,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -43,7 +52,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Дмитров, руч. Березовец, от Профессиональной ул. вдоль Оборонной ул",
+        "description": "<strong>Точка #1</strong><p>г. Дмитров, руч. Березовец, от Профессиональной ул. вдоль Оборонной ул</p>",
+        "marker-color": "red",
+        "marker-size": 3,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -56,7 +68,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Долгопрудный, Городкой ПКиО (Верхний пруд)",
+        "description": "<strong>Точка #1</strong><p>г. Долгопрудный, Городкой ПКиО (Верхний пруд)</p>",
+        "marker-color": "green",
+        "marker-size": 5,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -69,7 +84,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Долгопрудный, р. Коть",
+        "description": "<strong>Точка #1</strong><p>г. Долгопрудный, р. Коть</p>",
+        "marker-color": "blue",
+        "marker-size": 4,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Дубна, р. Волга близ Иваньковской ГЭС",
+        "description": "<strong>Точка #1</strong><p>г. Дубна, р. Волга близ Иваньковской ГЭС</p>",
+        "marker-color": "red",
+        "marker-size": 4,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -95,7 +116,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Егорьевск, р. Гуслица (от ул. П. Коммуны до ул. Рязанская)",
+        "description": "<strong>Точка #1</strong><p>г. Егорьевск, р. Гуслица (от ул. П. Коммуны до ул. Рязанская)</p>",
+        "marker-color": "green",
+        "marker-size": 5,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +132,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Зеленоград, р. Каменка",
+        "description": "<strong>Точка #1</strong><p>г. Зеленоград, р. Каменка</p>",
+        "marker-color": "blue",
+        "marker-size": 3,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
@@ -121,7 +148,10 @@
     {
       "type": "Feature",
       "properties": {
-        "description": "г. Ивантеевка, р. Уча (меандр реки)",
+        "description": "<strong>Точка #1</strong><p>г. Ивантеевка, р. Уча (меандр реки)</p>",
+        "marker-color": "red",
+        "marker-size": 4,
+        "icon-url":"https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
       },
       "geometry": {
         "type": "Point",
