@@ -4,14 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "timestamp": "3/27/24 9:57",
-                "date": "3/27/24 ",
-                "description": "\u043f\u0440\u043e\u043f\u0430\u043b",
-                "area": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c",
-                "title": "title",
-                "marker-size": "small",
+                "description": "<strong>Точка #попал</strong><p>пропал</p>",
                 "marker-color": "red",
-                "marker-symbol": "a-z",
+                "marker-size": 4,
                 "icon-url": "https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
             },
             "geometry": {
