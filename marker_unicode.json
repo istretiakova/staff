@@ -11,7 +11,8 @@
                 "title": "title",
                 "marker-size": "small",
                 "marker-color": "red",
-                "marker-symbol": "a-z"
+                "marker-symbol": "a-z",
+                "icon-url": "https://raw.githubusercontent.com/istretiakova/staff/main/marker.png"
             },
             "geometry": {
                 "type": "Point",
