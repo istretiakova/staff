@@ -1,0 +1,285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #1</strong><p>г. Балашиха, р. Малашка (пешеходный мост к кварталу Горбово)</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.9654463,
+                    55.83860566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #2</strong><p>г. Видное, р-он Эко-Видное, р. Купелинка (верхняя часть Нижнего пруда)</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.72970224,
+                    55.53177755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #3</strong><p>Усадьба Суханово</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.656248,
+                    55.523047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #4</strong><p>г. Дмитров, руч. Березовец, от Профессиональной ул. вдоль Оборонной ул</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.52628857,
+                    56.35391093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #5</strong><p>г. Долгопрудный, Городкой ПКиО (Верхний пруд)</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.501864,
+                    55.943741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #6</strong><p>г. Долгопрудный, р. Коть</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.508182,
+                    55.953066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #7</strong><p>г. Дубна, р. Волга близ Иваньковской ГЭС</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.13070994,
+                    56.73648944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #8</strong><p>г. Егорьевск, р. Гуслица (от ул. П. Коммуны до ул. Рязанская)</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.03273209,
+                    55.38129882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #9</strong><p>г. Зеленоград, р. Каменка</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.15784938,
+                    55.97088829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #10</strong><p>г. Ивантеевка, р. Уча (меандр реки)</p>",
+                "safety": "good"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.9016512,
+                    55.98977287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #11</strong><p>г. Москва, Суздальский пруд</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.848377,
+                    55.734258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #12</strong><p>р. Сетунь в Солнцеве и Переделкине</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.359699,
+                    55.655324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #13</strong><p>Солнцевский пруд (кинотеатр Солнцево)</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.389577,
+                    55.651557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #14</strong><p>р. Сетунь (Новопеределкинская ул.)</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.373988,
+                    55.63913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #15</strong><p>р. Десна, дер. Тупиково, Новомосковский АО.Природный парк</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.349373,
+                    55.52636093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #16</strong><p>пос. Остафьево, р. Любуча (Музей-усадьба Остафьево)</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.50250217,
+                    55.49523289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #17</strong><p>Москва, Троицк, Зона отдыха Заречье</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.305051,
+                    55.494983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #18</strong><p>Москва, Троицк, Проектируемый проезд № 7646</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.309632,
+                    55.494046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #19</strong><p>пос. Остафьево, р. Десна (на плотине)</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.50065353,
+                    55.48906883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "description": "<strong>Точка #20</strong><p>р. Сходня в г. Зеленограде (санаторий им. Артёма)</p>",
+                "safety": "bad"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.270953,
+                    55.969651
+                ]
+            }
+        }
+    ]
+}
